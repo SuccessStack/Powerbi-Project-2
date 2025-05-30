@@ -15,6 +15,9 @@ The primary aim of this project is to provide data-driven insights into sales pe
 * Where are the business opportunities geographically?
 
 ---
+![image](https://github.com/user-attachments/assets/7e8ad054-3309-4730-a212-0bc787aea1ad)
+---
+
 
 ## **Dataset Description**
 
